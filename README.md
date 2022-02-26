@@ -13,8 +13,6 @@ My name is Menghao Yu. I make silly projects in my free time.
   - learn some computer engineering and work with hardware
 - I just want to learn a little bit of everything so I can do a little bit of everything. 
 
-#### :fire: I am currently looking for Summer 2022 Internship Opportunities :fire:
-
 ## Here are some stats :chart_with_upwards_trend:
 ![Menghao's Github Stats](https://github-readme-stats.vercel.app/api?username=menghaoyu2002&count_private=true&show_icons=true&theme=github_dark)
 
