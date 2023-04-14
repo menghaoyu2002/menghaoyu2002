@@ -2,7 +2,7 @@
 My name is Menghao Yu. I make silly projects in my free time.
 
 - :mortar_board: I'm currently a third year computer science student at UofT.
-- :computer: I enjoy learning a bunch of different programming languages. My favourites are Python, Kotlin, Javascript, and Golang.
+- :computer: I enjoy learning a bunch of different programming languages. My favourites are Typescript and C.
 - :mag: I am currently exploring all the different career paths related to software engineering to find the one I truly love.
 - :floppy_disk: I enjoy tinkering with computer software, and customizing UI's to my liking
 - :hourglass: I would like to eventually: 
