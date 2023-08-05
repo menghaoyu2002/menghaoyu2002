@@ -1,16 +1,6 @@
 ## Hey There :wave:
 My name is Menghao Yu. I make silly projects in my free time.
 
-- :mortar_board: I'm currently a third year computer science student at UofT.
-- :computer: I enjoy learning a bunch of different programming languages. My favourites are Typescript and C.
-- :mag: I am currently exploring all the different career paths related to software engineering to find the one I truly love.
-- :floppy_disk: I enjoy tinkering with computer software, and customizing UI's to my liking
-- :hourglass: I would like to eventually: 
-  - make a game engine
-  - make a gameboy/nds emulator
-  - learn Rust
-  - learn React Native + Flutter
-  - learn some computer engineering and work with hardware
 - I just want to learn a little bit of everything so I can do a little bit of everything. 
 
 ## Here are some stats :chart_with_upwards_trend:
