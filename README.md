@@ -1,6 +1,6 @@
-My name is Menghao Yu. I make silly projects in my free time.
+I make silly projects in my free time.
 
-I just want to learn a little bit of everything so I can do a little bit of everything. 
+I want to learn a little bit of everything so I can do a little bit of everything. 
 
 
 
